@@ -2,9 +2,10 @@
 name: '🚀 Feature request'
 about: Suggest an idea for improving SSX
 title: '[FEAT] <title>'
-labels: 
-  - 'Feat request'
-  - 'Enhancement'
+labels:
+
+- bug
+- "help needed"
 ---
 ### Feature
 _Describe the feature_
