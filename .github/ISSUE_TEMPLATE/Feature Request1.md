@@ -1,8 +1,8 @@
 ---
 name: '🚀 Feature request'
 about: Suggest an idea for improving SSX
-title: ''
-labels: 'type:Enhancement'
+title: '[FEAT] <title>'
+labels: '[Feat request, Needs Triage]'
 assignees: ''
 ---
 ### Feature
