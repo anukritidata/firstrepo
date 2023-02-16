@@ -1,5 +1,5 @@
 ---
-name: '🚀 Feature request'
+name: '🚀 Feature request - md'
 about: Suggest an idea for improving SSX
 title: '[FEAT] <title>'
 labels:
